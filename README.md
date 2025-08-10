@@ -58,12 +58,6 @@ Die Würfel sind **0,5m³** groß.
 ![Gameplay Gameplay-3](assets/gameplay-3.jpg)
 ![Gameplay Gameplay-4](assets/gameplay-4.jpg)
 
-🎥 **Videos** (YouTube):  
-_comming soon..._
-
-![Shape Swipa Gameplay](https://youtube.com/...)  
-![Trailer](https://youtube.com/...)
-
 ## 🚀 Werde Beta-Tester für **Shape Swipa**!
 
 Möchtest du einen exklusiven Blick auf mein neues Spiel werfen?  
@@ -142,12 +136,6 @@ Each cube is **0.5m³** in size.
 ![Gameplay Gameplay-2](assets/gameplay-2.jpg)
 ![Gameplay Gameplay-3](assets/gameplay-3.jpg)
 ![Gameplay Gameplay-4](assets/gameplay-4.jpg)
-
-🎥 **Videos** (YouTube):  
-_comming soon..._
-
-![Shape Swipa Gameplay](https://youtube.com/...)  
-![Trailer](https://youtube.com/...)
 
 ## 🚀 Become a Beta Tester for **Shape Swipa**!
 
