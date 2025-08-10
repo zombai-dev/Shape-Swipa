@@ -1,9 +1,5 @@
 # Shape Swipa
 
-![Shape Swipa Logo](assets/logo.png) <!-- Platzhalter, Logo hier einfügen -->
-
----
-
 ## 🇩🇪 Deutsch
 
 ### Über das Spiel
@@ -67,6 +63,21 @@ _comming soon..._
 
 ![Shape Swipa Gameplay](https://youtube.com/...)  
 ![Trailer](https://youtube.com/...)
+
+## 🚀 Werde Beta-Tester für **Shape Swipa**!
+
+Möchtest du schon jetzt einen exklusiven Blick auf mein neues Spiel werfen?  
+Tritt der **Closed Beta** bei und hilf mir, das Spielerlebnis zu verbessern!  
+
+👉 [**Jetzt Beta-Tester werden**](https://play.google.com/apps/testing/com.zombai.dev.shape_swipa)
+
+**So geht’s:**
+1. Klicke auf den Link oben.
+2. Melde dich mit deinem Google-Konto an.
+3. Klicke auf **"Tester werden"**.
+4. Öffne den Play Store und installiere **Shape Swipa**.
+
+💡 Als Tester erhältst du vor allen anderen Zugriff auf neue Updates, kannst mir direkt Feedback geben und das Spiel mitgestalten.
 
 ---
 
@@ -134,9 +145,23 @@ _comming soon..._
 ![Shape Swipa Gameplay](https://youtube.com/...)  
 ![Trailer](https://youtube.com/...)
 
+## 🚀 Become a Beta Tester for **Shape Swipa**!
+
+Want to get an exclusive first look at my new game?  
+Join the **Closed Beta** and help me improve the gameplay experience!  
+
+👉 [**Join the Beta Now**](https://play.google.com/apps/testing/com.zombai.dev.shape_swipa)
+
+**How it works:**
+1. Click the link above.
+2. Sign in with your Google account.
+3. Click **"Become a Tester"**.
+4. Open the Play Store and install **Shape Swipa**.
+
+💡 As a tester, you'll get early access to all new updates, be able to send me feedback directly, and help shape the future of the game.
+
 ---
 
 ## Entwickler / Developer
 **ZombAI-dev**  
 📧 Kontakt / Contact: [zombai.dev@gmail.com]  
-🌐 Website: [unkown]  
