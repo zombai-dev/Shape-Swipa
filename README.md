@@ -49,7 +49,7 @@ Die Würfel sind **0,5m³** groß.
 
 ---
 
-### Screenshots & Videos
+### Screenshots
 
 ![Title Screenshot](assets/title.jpg)
 ![Options Screenshot](assets/options.jpg)
@@ -128,7 +128,7 @@ Each cube is **0.5m³** in size.
 
 ---
 
-### Screenshots & Videos
+### Screenshots
 
 ![Title Screenshot](assets/title.jpg)
 ![Options Screenshot](assets/options.jpg)
