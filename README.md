@@ -66,18 +66,22 @@ _comming soon..._
 
 ## 🚀 Werde Beta-Tester für **Shape Swipa**!
 
-Möchtest du schon jetzt einen exklusiven Blick auf mein neues Spiel werfen?  
-Tritt der **Closed Beta** bei und hilf mir, das Spielerlebnis zu verbessern!  
+Möchtest du einen exklusiven Blick auf mein neues Spiel werfen?  
+Die **Closed Beta** läuft, und du kannst dabei sein!
 
-👉 [**Jetzt Beta-Tester werden**](https://play.google.com/apps/testing/com.zombai.dev.shape_swipa)
+Da es eine geschlossene Beta ist, muss ich vorab deine E-Mail-Adresse als Tester eintragen.  
 
-**So geht’s:**
-1. Klicke auf den Link oben.
-2. Melde dich mit deinem Google-Konto an.
-3. Klicke auf **"Tester werden"**.
-4. Öffne den Play Store und installiere **Shape Swipa**.
+👉 Schreibe mir einfach eine Nachricht per E-Mail oder privat (siehe ganz unten auf der Seite), damit ich dich hinzufügen kann.
 
-💡 Als Tester erhältst du vor allen anderen Zugriff auf neue Updates, kannst mir direkt Feedback geben und das Spiel mitgestalten.
+**Danach kannst du ganz einfach über den Weblink beitreten:**  
+[https://play.google.com/apps/testing/com.zombai.dev.shape_swipa](https://play.google.com/apps/testing/com.zombai.dev.shape_swipa)
+
+**So geht’s:**  
+1. Ich trage deine E-Mail als Tester ein.  
+2. Du klickst auf den Link und meldest dich mit deinem Google-Konto an.  
+3. Klicke auf **„Tester werden“** und installiere das Spiel im Play Store.
+
+💡 Als Tester bekommst du frühzeitigen Zugriff auf Updates und kannst mir direkt Feedback geben, um das Spiel zu verbessern.
 
 ---
 
@@ -148,17 +152,21 @@ _comming soon..._
 ## 🚀 Become a Beta Tester for **Shape Swipa**!
 
 Want to get an exclusive first look at my new game?  
-Join the **Closed Beta** and help me improve the gameplay experience!  
+The **Closed Beta** is now live, and you can join!
 
-👉 [**Join the Beta Now**](https://play.google.com/apps/testing/com.zombai.dev.shape_swipa)
+Since this is a closed beta, I need to add your email address in advance as a tester.  
 
-**How it works:**
-1. Click the link above.
-2. Sign in with your Google account.
-3. Click **"Become a Tester"**.
-4. Open the Play Store and install **Shape Swipa**.
+👉 Just send me a message via email or privately (see contact details at the bottom of the page), so I can add you.
 
-💡 As a tester, you'll get early access to all new updates, be able to send me feedback directly, and help shape the future of the game.
+**After that, you can join easily using the web link:**  
+[https://play.google.com/apps/testing/com.zombai.dev.shape_swipa](https://play.google.com/apps/testing/com.zombai.dev.shape_swipa)
+
+**How it works:**  
+1. I add your email as a tester.  
+2. You click the link and sign in with your Google account.  
+3. Click **"Become a Tester"** and install the game from the Play Store.
+
+💡 As a tester, you’ll get early access to updates and can send me direct feedback to help improve the game.
 
 ---
 
