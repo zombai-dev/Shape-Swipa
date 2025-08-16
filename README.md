@@ -6,7 +6,7 @@
 **Shape Swipa** ist ein einfach zu erlernendes, aber kniffliges 3D-Physikspiel, entwickelt in **Godot 4.4** mit **GD-Script**.  
 Das Spiel läuft ausschließlich im **Portrait-Modus** und nutzt die interne **Jolt-Physikengine**.
 
-Du steuerst Würfel, die auf einer **10 Meter langen** und **3 Meter breiten** Plattform liegen.  
+Du steuerst Würfel, die auf einer **6,5 Meter langen** und **3 Meter breiten** Plattform liegen.  
 Die Umgebung ist statisch, Wände sind halb so hoch wie die Würfel, mit unsichtbaren Barrieren nach oben, sodass nichts herunterfallen kann.  
 Die Würfel sind **0,5m³** groß.
 
@@ -85,7 +85,7 @@ Da es eine geschlossene Beta ist, muss ich vorab deine E-Mail-Adresse als Tester
 **Shape Swipa** is an easy-to-learn but tricky 3D physics game developed in **Godot 4.4** using **GD-Script**.  
 The game runs exclusively in **portrait mode** and uses the built-in **Jolt physics engine**.
 
-You control cubes placed on a **10 meter long** and **3 meter wide** platform.  
+You control cubes placed on a **6.5 meter long** and **3 meter wide** platform.  
 The environment is static, walls are half the cube's height, with invisible barriers above to prevent cubes from falling off.  
 Each cube is **0.5m³** in size.
 
