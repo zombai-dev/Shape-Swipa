@@ -158,6 +158,12 @@ Since this is a closed beta, I need to add your email address in advance as a te
 
 ---
 
+## Datenschutz / Privacy
+[https://zombai-dev.github.io/Shape-Swipa/privacy](https://zombai-dev.github.io/Shape-Swipa/privacy)
+
+## Changelog
+[https://zombai-dev.github.io/Shape-Swipa/changelog](https://zombai-dev.github.io/Shape-Swipa/changelog)
+
 ## Entwickler / Developer
 **ZombAI-dev**  
 📧 Kontakt / Contact: [zombai.dev@gmail.com]  
