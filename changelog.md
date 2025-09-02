@@ -2,6 +2,16 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.3.5
+- Senke Objekt Berührungslautstärke (nicht das plop)
+- Combo Icon bei höchsten Combo nicht mehr "null"
+- Kleine Linien mittig am Bildschirmrand für Swipe und Kamera Trennung
+- ScriptManager für dynamisches Laden von Scripts erstellt
+- Neue Flugbahn Anzeige
+- Tada Sound, wenn ein Objekt mindestens 2 andere Objekte auf einmal entfernt
+- Changelog in den Optionen verlinkt
+- Sensor zurück zu Portrait (Landscape desktiviert)
+
 ### 0.3.4
 - Übersetzung für die "Neues Spiel" Warnung ins englische inkl. der Buttons
 - Sensor nicht länger auf Portrait fixiert
@@ -63,6 +73,16 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.3.5
+- Lower object touch volume (not the plop)
+- Combo icon at highest combo no longer “zero”
+- Small lines in the center of the screen for swipe and camera separation
+- ScriptManager created for dynamic loading of scripts
+- New trajectory display
+- Tada sound when an object removes at least 2 other objects at once
+- Changelog linked in the options
+- Sensor back to portrait (landscape deactivated)
 
 ### 0.3.4
 - Translation for the “New game” warning into English including the buttons
