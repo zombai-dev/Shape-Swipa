@@ -19,7 +19,7 @@ Die Würfel sind **0,5m³** groß.
 
 2. **Bewegung**  
    - **Swipe nach vorne (oben)** → Würfel wird in Pfeilrichtung nach vorne geschleudert.  
-   - **Swipe nach hinten (unten)** → Würfel springt nach hinten und kann andere Würfel überspringen.
+   - **Swipe nach hinten (unten)** → Würfel springt nach vorne und kann andere Würfel überspringen.
 
 3. **Kollisionen**  
    - Trifft dein Würfel auf einen anderen, explodiert dieser.  
@@ -98,7 +98,7 @@ Each cube is **0.5m³** in size.
 
 2. **Movement**  
    - **Swipe forward (up)** → Cube is launched forward in the arrow's direction.  
-   - **Swipe backward (down)** → Cube jumps backward, allowing it to skip over other cubes.
+   - **Swipe backward (down)** → Cube jumps forward, allowing it to skip over other cubes.
 
 3. **Collisions**  
    - If your cube hits another cube, that cube explodes.  
