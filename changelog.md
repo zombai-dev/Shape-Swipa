@@ -3,6 +3,8 @@
 ## 🇩🇪 Deutsch
 
 ### 0.3.5
+- Erstellt mit Godot 4.5 beta 7 um aktuelle PlayStore Anforderungen zu entsprechend
+  - Bekannte Performance Probleme
 - Senke Objekt Berührungslautstärke (nicht das plop)
 - Combo Icon bei höchsten Combo nicht mehr "null"
 - Kleine Linien mittig am Bildschirmrand für Swipe und Kamera Trennung
@@ -75,6 +77,8 @@ Erste Shape-Swipa Version mit folgenden Features
 ## 🇬🇧 English
 
 ### 0.3.5
+- Created with Godot 4.5 beta 7 to meet current PlayStore requirements
+  - Known performance issues
 - Lower object touch volume (not the plop)
 - Combo icon at highest combo no longer “zero”
 - Small lines in the center of the screen for swipe and camera separation
