@@ -11,7 +11,7 @@
 - Highscores über das Hauptmenü aufrufbar
 
 ### 0.3.5
-- Erstellt mit Godot 4.5 beta 7 um aktuelle PlayStore Anforderungen zu entsprechend
+- Erstellt mit Godot 4.5 beta 7 um aktuelle PlayStore Anforderungen zu entsprechen
   - Bekannte Performance Probleme
 - Senke Objekt Berührungslautstärke (nicht das plop)
 - Combo Icon bei höchsten Combo nicht mehr "null"
