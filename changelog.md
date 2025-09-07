@@ -2,6 +2,14 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.3.6
+- Aktualisiert auf Godot 4.5 RC1 wodurch bereits viele Probleme behoben wurden
+- Wechsel zwischen Flugbahnvorschau und Geistervorschau in den Optionen
+- Combo Icon bei höchsten Combo im Game Over Bildschirm nicht mehr "null"
+- Übersetzung ändert jetzt alle Texte korrekt, wenn die Sprache gewechselt wird
+- Highscores enthalten nun zusätzlich die Spielzeit, Objekte und höchste Nummer; alte Highscores haben für die zusätzlichen Werte eine 0
+- Highscores über das Hauptmenü aufrufbar
+
 ### 0.3.5
 - Erstellt mit Godot 4.5 beta 7 um aktuelle PlayStore Anforderungen zu entsprechend
   - Bekannte Performance Probleme
@@ -75,6 +83,14 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.3.6
+- Updated to Godot 4.5 RC1 which has already fixed many issues
+- Switch between trajectory preview and ghost preview in the options
+- Combo icon at highest combo in Game Over screen no longer “null”
+- Translation now changes all texts correctly when the language is changed
+- Highscores now also contain the playing time, objects and highest number; old highscores have a 0 for the additional values
+- Highscores can be accessed via the main menu
 
 ### 0.3.5
 - Created with Godot 4.5 beta 7 to meet current PlayStore requirements
