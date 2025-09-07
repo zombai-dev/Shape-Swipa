@@ -2,6 +2,16 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.3.7
+- Korrekte Sprache wird direkt gespeichert, wenn die Systemsprache verwendet wird
+  - Führt zu korrekter Nummern Anzeige wie z.b. 123.456 anstatt von 123456 bei deutscher Sprache
+- Highscores beim Game Over jetzt auch mit korrekter Schreibweise
+- Physik der Objekte wird jetzt fortlaufend berechnet
+- Leichte Performance verbesserung durch weniger Leistung für den Panorama Hintergrund
+- Abständer der unteren Buttons vergrößert für bessere Erreichbarkeit
+- Punkte für doppelten Treffer (Objekt löst 2 Objekte gleichzeitig aus) erhöht
+  - Augenzahl * Combo * 3 (vorher: Augenzahl * Combo *2)
+
 ### 0.3.6
 - Aktualisiert auf Godot 4.5 RC1 wodurch bereits viele Probleme behoben wurden
 - Wechsel zwischen Flugbahnvorschau und Geistervorschau in den Optionen
@@ -83,6 +93,16 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.3.7
+- Correct language is saved directly when the system language is used
+  - Leads to correct number display e.g. 123.456 instead of 123456 in German language
+- Highscores at game over now also with correct spelling
+- Physics of objects is now calculated continuously
+- Slight performance improvement due to less performance for the panorama background
+- Distance between the lower buttons increased for better accessibility
+- Points for double hit (object triggers 2 objects at the same time) increased
+  - Number of points * combo * 3 (previously: number of points * combo * 2)
 
 ### 0.3.6
 - Updated to Godot 4.5 RC1 which has already fixed many issues
