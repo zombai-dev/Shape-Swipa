@@ -2,6 +2,11 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.3.8
+- Randlose Anzeige deaktiviert
+- Soundeffekte An / Aus beim Spielstart wieder korrekt herstellen
+- HDR Hintergrund durch einfacheren Hintergrund ersetzt
+
 ### 0.3.7
 - Korrekte Sprache wird direkt gespeichert, wenn die Systemsprache verwendet wird
   - Führt zu korrekter Nummern Anzeige wie z.b. 123.456 anstatt von 123456 bei deutscher Sprache
@@ -93,6 +98,11 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.3.8
+- Borderless display deactivated
+- Restore correct sound effects on / off at game start
+- HDR background replaced by simpler background
 
 ### 0.3.7
 - Correct language is saved directly when the system language is used
