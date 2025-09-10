@@ -2,6 +2,11 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.3.9
+- UI Optimierungen zwecks Ladezeiten und Performance
+- Test Mobil Sensor und Vollbild Modus für API Vorgaben
+- Test mit Schatten (sollte keine Auswirkungen auf Android haben)
+
 ### 0.3.8
 - Randlose Anzeige deaktiviert
 - Soundeffekte An / Aus beim Spielstart wieder korrekt herstellen
@@ -98,6 +103,11 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.3.9
+- UI optimizations for loading times and performance
+- Test mobile sensor and full screen mode for API defaults
+- Test with shadows (should have no effect on Android)
 
 ### 0.3.8
 - Borderless display deactivated
