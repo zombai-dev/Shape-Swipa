@@ -2,6 +2,9 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.3.10
+- Optionsmenü öffnen gefixt
+
 ### 0.3.9
 - UI Optimierungen zwecks Ladezeiten und Performance
 - Test Mobil Sensor und Vollbild Modus für API Vorgaben
@@ -103,6 +106,9 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.3.10
+- Open options menu fixed
 
 ### 0.3.9
 - UI optimizations for loading times and performance
