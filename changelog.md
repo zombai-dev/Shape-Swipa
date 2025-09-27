@@ -2,6 +2,16 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.3.11
+- Aktualisiert auf Godot 4.5 stabil (RC2 offline getestet)
+- Mobil Sensor wieder auf Portrait (Test nicht erfolgreich)
+- Objekte entfernen, falls diese ungeplant das Level verlassen
+- Explosionskraft leicht reduziert
+- Highscores im Hauptmenü mit verbesserte Tabelle
+- Optimiere Partikel Performance
+- Optimierungen im Quellcode
+- Swipe angepasst, so dass auch direkt nach links und rechts möglich ist
+
 ### 0.3.10
 - Optionsmenü öffnen gefixt
 
@@ -106,6 +116,16 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.3.11
+- Updated to Godot 4.5 stable (RC2 tested offline)
+- Mobile sensor back to portrait (test not successful)
+- Remove objects if they leave the level unplanned
+- Explosive power slightly reduced
+- Highscores in main menu with improved table
+- Optimize particle performance
+- Optimizations in the source code
+- Swipe adjusted so that direct left and right is also possible
 
 ### 0.3.10
 - Open options menu fixed
