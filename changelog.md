@@ -2,6 +2,16 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.3.12
+- Ladebildschirm für besseres Gameplay
+- Partikeleffekte leuchten
+- Partikel haben jetzt die Farbe des nächsten Objektes
+- Minimaler impulse verringert, damit Indikatoren früher erscheinen
+- Objekt Sprung verringert
+- UI Schriftgröße vergrößert (im Spiel)
+- Musik hinzugefügt
+- Musik über den Optionen an- und ausschaltbar
+
 ### 0.3.11
 - Aktualisiert auf Godot 4.5 stabil (RC2 offline getestet)
 - Mobil Sensor wieder auf Portrait (Test nicht erfolgreich)
@@ -116,6 +126,16 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.3.12
+- Loading screen for better gameplay
+- Particle effects glow
+- Particles now have the color of the next object
+- Minimum impulse reduced so that indicators appear earlier
+- Object jump reduced
+- UI font size increased (in-game)
+- Added music
+- Music can be switched on and off via the options
 
 ### 0.3.11
 - Updated to Godot 4.5 stable (RC2 tested offline)
