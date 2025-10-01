@@ -2,6 +2,21 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.3.13
+- Swipe Sprungstärke wieder reduziert auf alten Wert
+- Neue UI Buttons
+- UI Animation
+- FPS Anzeige entfernt
+- Maximale FPS in den Einstellung zu Energiesparen umbenannt
+- Einstellungen UI überarbeitet
+- Songs aktualisiert
+- Musik pausiert, wenn deaktiviert
+- Punkteberechnung angepasst
+  - Augenzahl wird jetzt immer gezählt
+  - Combo: Augenzahl * (1.5 ^ Komboschritt)
+  - Doppelter Treffer: (Augenzahl * Komboschritt) ^ Objekte
+  - Combo auf maximal 10 begrenzt
+
 ### 0.3.12
 - Ladebildschirm für besseres Gameplay
 - Partikeleffekte leuchten
@@ -126,6 +141,21 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.3.13
+- Swipe jump strength reduced to old value again
+- New UI buttons
+- UI animation
+- Removed FPS display
+- Maximum FPS in the settings renamed to energy saving
+- Settings UI revised
+- Songs updated
+- Music paused when disabled
+- Point calculation adjusted
+  - Score is now always counted
+  - Combo: Number of points * (1.5 ^ combo step)
+  - Double hit: (number of points * combo step) ^ objects
+  - Combo limited to a maximum of 10
 
 ### 0.3.12
 - Loading screen for better gameplay
