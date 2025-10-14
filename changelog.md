@@ -2,6 +2,9 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.4.1
+- Objekt Schriftgröße dynamik angepasst, damit die Zahlen aus der Ferne besser zu erkennen sind
+
 ### 0.4.0
 - Tutorial hinzugefügt
 - Partikelexplosion hat zusätzlich eine visuelle Schockwelle
@@ -151,6 +154,9 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.4.1
+- Object font size dynamically adjusted so that the numbers are easier to see from a distance
 
 ### 0.4.0
 - Tutorial added
