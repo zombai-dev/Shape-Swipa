@@ -152,6 +152,16 @@ Erste Shape-Swipa Version mit folgenden Features
 
 ## 🇬🇧 English
 
+### 0.4.0
+- Tutorial added
+- Particle explosion has an additional visual shockwave
+- Swipe jump radius increased by 5% and strength slightly increased
+- Undo function adjusted
+  - Start at 250 points cost
+  - Increase by 1.6 (250, 400, 640, 1024, 1638, 2621, 4194, 5000)
+  - Maximum cost 5000 points
+- Code further cleaned up and optimized
+
 ### 0.3.13
 - Swipe jump strength reduced to old value again
 - New UI buttons
