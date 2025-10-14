@@ -2,6 +2,16 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.4.0
+- Tutorial hinzugefügt
+- Partikelexplosion hat zusätzlich eine visuelle Schockwelle
+- Swipe Sprungradius um 5% angehoben und Stärke ganz leich erhöht
+- Rückgängig Funktion angepasst
+  - Start bei 250 Punkte kosten
+  - Erhöhung um 1.6 (250, 400, 640, 1024, 1638, 2621, 4194, 5000)
+  - Maximal 5000 Punkte kosten
+- Code weiter aufgeräumt und optimiert
+
 ### 0.3.13
 - Swipe Sprungstärke wieder reduziert auf alten Wert
 - Neue UI Buttons
