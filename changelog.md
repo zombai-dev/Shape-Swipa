@@ -2,6 +2,9 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.4.2
+- Tutorial Dialog scrollen überspringt nicht mehr den Text
+
 ### 0.4.1
 - Objekt Schriftgröße dynamik angepasst, damit die Zahlen aus der Ferne besser zu erkennen sind
 
@@ -154,6 +157,9 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.4.2
+- Tutorial dialog scrolling no longer skips the text
 
 ### 0.4.1
 - Object font size dynamically adjusted so that the numbers are easier to see from a distance
