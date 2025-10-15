@@ -2,7 +2,7 @@
 
 ## 🇩🇪 Deutsch
 
-### 0.4.4
+### 0.4.4 (Early Access)
 - Fehler behoben das die Geistervorschau nicht mehr angezeigt wurde
 - Schreibfehler im Tutorial behoben
 
@@ -166,7 +166,7 @@ Erste Shape-Swipa Version mit folgenden Features
 
 ## 🇬🇧 English
 
-### 0.4.4
+### 0.4.4 (Early access)
 - Bug fixed that the ghost preview was no longer displayed
 - Fix some typos in tutorial
 
