@@ -2,6 +2,14 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.4.4
+- Fehler behoben das die Geistervorschau nicht mehr angezeigt wurde
+- Schreibfehler im Tutorial behoben
+
+### 0.4.3
+- Kleinere Fehlerbehebungen im Tutorial
+- Vorbereitung zum Early Access
+
 ### 0.4.2
 - Tutorial Dialog scrollen überspringt nicht mehr den Text
 
@@ -157,6 +165,14 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.4.4
+- Bug fixed that the ghost preview was no longer displayed
+- Fix some typos in tutorial
+
+### 0.4.3
+- Minor bug fixes in the tutorial
+- Preparation for Early Access
 
 ### 0.4.2
 - Tutorial dialog scrolling no longer skips the text
