@@ -2,6 +2,12 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.4.5 (Early Access)
+- Sprachwahl in den Optionen verschoben und vom Hauptmenü entfernt
+- Spiel kann abstürzen, wenn Geistervorschau über das Hauptmenü aktiviert wird wurde behoben
+- Versionsinfo zum Ladebild hinzugefügt
+- ZombAI.dev-Begrüßungsbildschirm hinzugefügt
+
 ### 0.4.4 (Early Access)
 - Fehler behoben das die Geistervorschau nicht mehr angezeigt wurde
 - Schreibfehler im Tutorial behoben
@@ -165,6 +171,12 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.4.5 (Early Access)
+- Moved language selection in options and removed from main menu
+- Fixed game crashing when ghost preview is activated from the main menu
+- Added version info to the loading screen
+- Added ZombAI.dev splash screen
 
 ### 0.4.4 (Early access)
 - Bug fixed that the ghost preview was no longer displayed
