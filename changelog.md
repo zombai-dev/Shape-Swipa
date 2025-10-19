@@ -2,6 +2,11 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.4.6 (Early Access)
+- Anpassung des Spielstandspeichers; aktuell laufendes Spiel kann einmalig nicht fortgeführt werden
+  - Vorbereitung für weitere Spielmodi
+- Objekt Vorschau oben mittig
+
 ### 0.4.5 (Early Access)
 - Sprachwahl in den Optionen verschoben und vom Hauptmenü entfernt
 - Spiel kann abstürzen, wenn Geistervorschau über das Hauptmenü aktiviert wird wurde behoben
@@ -171,6 +176,11 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.4.6 (Early Access)
+- Adjustment of the savegame memory; currently running game cannot be continued once
+  - Preparation for further game modes
+- Object preview top center
 
 ### 0.4.5 (Early Access)
 - Moved language selection in options and removed from main menu
