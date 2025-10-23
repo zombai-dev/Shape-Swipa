@@ -2,6 +2,14 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.0 (Early Access)
+- Objekte mit Kugeln und Kapseln erweitert
+- Hauptmenü für weitere Spielmodi erweitert
+- Highscores für wetiere Spielmodi erweitert
+- Neues Spiel Buttons bekommen eine andere Farbe, wenn ein Spielstand vorhanden ist
+- Zurücksetzen der minimalen und maximal Zahl bei Spielende
+- Sprachdateien angepasst / erweitert
+
 ### 0.4.6 (Early Access)
 - Anpassung des Spielstandspeichers; aktuell laufendes Spiel kann einmalig nicht fortgeführt werden
   - Vorbereitung für weitere Spielmodi
@@ -176,6 +184,14 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.0 (Early Access)
+- Objects with spheres and capsules expanded
+- Main menu expanded for additional game modes
+- Highscores for wetiere game modes extended
+- New game buttons get a different color when a score is available
+- Reset the minimum and maximum number at the end of the game
+- Language files adapted / extended
 
 ### 0.4.6 (Early Access)
 - Adjustment of the savegame memory; currently running game cannot be continued once
