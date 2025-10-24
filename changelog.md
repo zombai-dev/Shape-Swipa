@@ -2,6 +2,11 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.1 (Early Access)
+- Schriftgröße der Zahlen auf Kugeln und Kapseln vergrößert
+- Geistervorschau führt zu Spielabsturz bei Kugeln und Kapseln wurde behoben
+- Highscores werden bei anderen Spielmodi außer Würfel nicht korrekt gespeichert behoben
+
 ### 0.5.0 (Early Access)
 - Objekte mit Kugeln und Kapseln erweitert
 - Hauptmenü für weitere Spielmodi erweitert
@@ -184,6 +189,11 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.1 (Early Access)
+- Increased font size of numbers on spheres and capsules
+- Ghost preview leads to game crash with balls and capsules has been fixed
+- Highscores are not saved correctly in game modes other than dice fixed
 
 ### 0.5.0 (Early Access)
 - Objects with spheres and capsules expanded
