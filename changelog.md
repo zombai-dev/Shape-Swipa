@@ -2,6 +2,10 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.2 (Early Access)
+- Shader baking aktiviert (verbessertes laden der Shader)
+- Android API Level auf 36 erhöht
+
 ### 0.5.1 (Early Access)
 - Schriftgröße der Zahlen auf Kugeln und Kapseln vergrößert
 - Geistervorschau führt zu Spielabsturz bei Kugeln und Kapseln wurde behoben
@@ -189,6 +193,10 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.2 (Early Access)
+- Shader baking enabled (improved shader loading)
+- Android API level increased to 36
 
 ### 0.5.1 (Early Access)
 - Increased font size of numbers on spheres and capsules
