@@ -2,7 +2,8 @@
 
 ## 🇩🇪 Deutsch
 
-### 0.5.2 (Early Access)
+### 0.5.2
+- Early Access verlassen
 - Shader baking aktiviert (verbessertes laden der Shader)
 - Android API Level auf 36 erhöht
 
@@ -194,7 +195,8 @@ Erste Shape-Swipa Version mit folgenden Features
 
 ## 🇬🇧 English
 
-### 0.5.2 (Early Access)
+### 0.5.2
+- leave early access
 - Shader baking enabled (improved shader loading)
 - Android API level increased to 36
 
