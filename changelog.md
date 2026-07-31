@@ -2,6 +2,14 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.3
+- Höchster Combo wird nun korrekt nach Punktzahl gemessen
+- Partikel Anzahl von 300 auf 100 reduziert für bessere Performance
+- Performance bei vielen Objekten verbessert indem Eigenschaften der Kollisionserkennung angepasst wurden
+- Objekte (WÜrfel, Kugeln, Kapseln) als eigenständiges Objekt um Resourcen zu sparen
+- Übersetzung für "BACK" Button hinzugefügt
+- Code aufgeräumt (alte Scripte und Scenen entfernt)
+
 ### 0.5.2
 - Early Access verlassen
 - Shader baking aktiviert (verbessertes laden der Shader)
@@ -194,6 +202,14 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.3
+- The highest combo is now correctly calculated based on score
+- Particle count reduced from 300 to 100 for better performance
+- Performance with many objects has been improved by adjusting collision detection properties
+- Objects (cubes, spheres, capsules) are now treated as separate objects to conserve resources
+- Translation added for the “BACK” button
+- Code cleaned up (old scripts and scenes removed)
 
 ### 0.5.2
 - leave early access
