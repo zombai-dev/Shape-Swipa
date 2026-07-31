@@ -2,6 +2,10 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.4
+- Game Over, wenn Objekt die rote Linie überquert wurde fälschlich entfernt ist behoben
+- Sporadische Startprobleme behoben
+
 ### 0.5.3
 - Höchster Combo wird nun korrekt nach Punktzahl gemessen
 - Partikel Anzahl von 300 auf 100 reduziert für bessere Performance
@@ -202,6 +206,10 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.4
+- Fixed an issue where the game would end when an object that had crossed the red line was incorrectly removed
+- Fixed sporadic startup issues
 
 ### 0.5.3
 - The highest combo is now correctly calculated based on score
