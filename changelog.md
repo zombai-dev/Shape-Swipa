@@ -2,6 +2,10 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.6
+- Partikel Pool erhöht und als Fallback einen neue Partikel Instanz hinzugefügt
+- Partikel reseten sich nun selbst und nicht mehr von einem Objekt was eventuell nicht mehr vorhanden ist
+
 ### 0.5.5
 - Menüpunkte schweben nicht komplett aus dem Sichtbereich ist behoben
 - Partikeleffekte Pool erzeugt für schnellere Ergebnisse
@@ -213,6 +217,10 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.6
+- Increased the particle pool and added a new particle instance as a fallback
+- Particles now reset themselves rather than being reset by an object that may no longer exist
 
 ### 0.5.5
 - Fixed an issue where menu items did not completely disappear from view
