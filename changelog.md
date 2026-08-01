@@ -2,6 +2,13 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.5
+- Menüpunkte schweben nicht komplett aus dem Sichtbereich ist behoben
+- Partikeleffekte Pool erzeugt für schnellere Ergebnisse
+- Zahlen auf den Kugeln und Kapseln korrigiert
+- Nicht mehr benötigte Shader entfernt
+- Korrekte physikalische Eigenschaften auf Kugeln und Kapseln hinzugefügt
+
 ### 0.5.4
 - Game Over, wenn Objekt die rote Linie überquert wurde fälschlich entfernt ist behoben
 - Sporadische Startprobleme behoben
@@ -206,6 +213,13 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.5
+- Fixed an issue where menu items did not completely disappear from view
+- Pool now generates particle effects for faster results
+- Corrected the numbers on the spheres and capsules
+- Removed shaders that are no longer needed
+- Added correct physical properties to spheres and capsules
 
 ### 0.5.4
 - Fixed an issue where the game would end when an object that had crossed the red line was incorrectly removed
