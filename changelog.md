@@ -2,6 +2,9 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.7
+- Weiteren Flag zu den Partikel hinzugefügt um mögliche Abstürze zu vermeiden
+
 ### 0.5.6
 - Partikel Pool erhöht und als Fallback einen neue Partikel Instanz hinzugefügt
 - Partikel reseten sich nun selbst und nicht mehr von einem Objekt was eventuell nicht mehr vorhanden ist
@@ -217,6 +220,9 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.7
+- Added another flag to the particles to prevent potential crashes
 
 ### 0.5.6
 - Increased the particle pool and added a new particle instance as a fallback
