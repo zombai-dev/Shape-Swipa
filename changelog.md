@@ -2,6 +2,13 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.8
+- Kollisionserkennung bei den Explosionen gründlich überarbeitet, so dass nun die Schockwelle spürbar realistischer ist
+- Partikeleffekte aus dem Preloader entfernt, da nach dem Start bereits mehrere in den Speicher geladen werden
+- Geistervorschau nach Umbau korrigert
+- Zahlen auf Kugeln und Kapseln mehr hervorgehoben, damit sie besser lesbar sind
+- Spielstände gefixt, damit keine leeren Spielstände erkannt werden
+
 ### 0.5.7
 - Weiteren Flag zu den Partikel hinzugefügt um mögliche Abstürze zu vermeiden
 
@@ -220,6 +227,13 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.8
+- Thoroughly overhauled collision detection for explosions, so the shockwave now feels noticeably more realistic
+- Removed particle effects from the preloader, since several are already loaded into memory after launch
+- Fixed ghost preview after restructuring
+- Numbers on balls and capsules are now more prominent, making them easier to read
+- Fixed save data so that empty save files are no longer detected
 
 ### 0.5.7
 - Added another flag to the particles to prevent potential crashes
