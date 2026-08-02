@@ -2,6 +2,10 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.9
+- Korrigiere Kollisionsmatrix für Kugeln und Kapseln
+- Cache für Kollisionsmatrix hinzugefügt
+
 ### 0.5.8
 - Kollisionserkennung bei den Explosionen gründlich überarbeitet, so dass nun die Schockwelle spürbar realistischer ist
 - Partikeleffekte aus dem Preloader entfernt, da nach dem Start bereits mehrere in den Speicher geladen werden
@@ -227,6 +231,10 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.9
+- Fixed the collision matrix for spheres and capsules
+- Added a cache for the collision matrix
 
 ### 0.5.8
 - Thoroughly overhauled collision detection for explosions, so the shockwave now feels noticeably more realistic
