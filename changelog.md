@@ -2,6 +2,9 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.11
+- Test mit weniger Komplexen Objekten (Kugeln und Kapseln)
+
 ### 0.5.10
 - Kleinere Bugfixes und Feintuning
 
@@ -234,6 +237,9 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.11
+- Test using less complex objects (spheres and capsules)
 
 ### 0.5.10
 - Minor bug fixes and fine-tuning
