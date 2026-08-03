@@ -2,6 +2,9 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.10
+- Kleinere Bugfixes und Feintuning
+
 ### 0.5.9
 - Korrigiere Kollisionsmatrix für Kugeln und Kapseln
 - Cache für Kollisionsmatrix hinzugefügt
@@ -231,6 +234,9 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.10
+- Minor bug fixes and fine-tuning
 
 ### 0.5.9
 - Fixed the collision matrix for spheres and capsules
