@@ -2,6 +2,12 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.5.12
+- Kugeln und Kapseln Formen vereinfacht für schnellere berechnung
+- Flugbahnvorschau Cache für Performance
+- Preloader optimiert für schnelleres Laden
+- Objektexplosion als Event ausgelagert
+
 ### 0.5.11
 - Test mit weniger Komplexen Objekten (Kugeln und Kapseln)
 
@@ -237,6 +243,12 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.5.12
+- Simplified sphere and capsule shapes for faster calculations
+- Trajectory preview cache for improved performance
+- Optimized preloader for faster loading
+- Object explosion moved to an event
 
 ### 0.5.11
 - Test using less complex objects (spheres and capsules)
