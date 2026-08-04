@@ -74,10 +74,16 @@ Die Umgebung ist statisch, Wände sind halb so hoch wie die Objekte, mit unsicht
 ## 🚀 Interesse geweckt? Hier gibt es **Shape Swipa**!
 
 ### Google Play
-[https://play.google.com/store/apps/details?id=com.zombai.dev.shape_swipa](https://play.google.com/store/apps/details?id=com.zombai.dev.shape_swipa)
+#### Offizielller Release für Android
+
+**Link:** [https://play.google.com/store/apps/details?id=com.zombai.dev.shape_swipa](https://play.google.com/store/apps/details?id=com.zombai.dev.shape_swipa)
 
 ### Itch.io
-[https://zombai-dev.itch.io/shape-swipa](https://zombai-dev.itch.io/shape-swipa)
+#### HTML5 mit WebGL 2.0 für den Browser
+Falls das Spiel nicht geladen wird muss Arbeitsspeicher freigemacht werden.  
+Browsertabs schließen oder Apps im die im Hintergrund laufen beenden.  
+
+**Link:** [https://zombai-dev.itch.io/shape-swipa](https://zombai-dev.itch.io/shape-swipa)
 
 ---
 ---
@@ -158,10 +164,16 @@ The environment is static; walls are half as tall as the objects, with invisible
 ## 🚀 Interested? You can find **Shape Swipa** here!
 
 ### Google Play
-[https://play.google.com/store/apps/details?id=com.zombai.dev.shape_swipa](https://play.google.com/store/apps/details?id=com.zombai.dev.shape_swipa)
+#### Official release for Android
+
+**Link:** [https://play.google.com/store/apps/details?id=com.zombai.dev.shape_swipa](https://play.google.com/store/apps/details?id=com.zombai.dev.shape_swipa)
 
 ### Itch.io
-[https://zombai-dev.itch.io/shape-swipa](https://zombai-dev.itch.io/shape-swipa)
+#### HTML5 with WebGL 2.0 for the browser
+If the game doesn't load, you'll need to free up some RAM.  
+Close browser tabs or close apps running in the background.  
+
+**Link:** [https://zombai-dev.itch.io/shape-swipa](https://zombai-dev.itch.io/shape-swipa)
 
 ---
 
