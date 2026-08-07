@@ -2,6 +2,17 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.6.1 (release) - 08.08.26
+- Nächste Zahl unter minimum Zahl behoben; bereits angezeigte nächste Zahlen werden dadurch beeinflusst
+- Neues Objekt und nächste Zahl nun als Event ausgelagert für mehr und bessere Dynamik
+- Rückgängig Button Logik als Event ausgelagert
+- Spiel beenden Button in den Einstellungen ausgeblendet wenn das Spiel im Browser ausgeführt wird
+- MSAA und SSAA deaktiviert
+- Objekt Materialien (Farben) cachen
+- Hintergrund auf einfarbig geändert (großer Performance Schub)
+- Jeglicher Schatten auf Zahlen ignoiert für bessere Lesbarkeit
+- Beta Hinweis auf Kapseln entfernt; läuft jetzt
+
 ### 0.6.0 (release) - 04.08.26
 - Szenen Manager hinzugefügt für schnelleres Wechseln der Ansichten und schnellere Ladezeiten
 - Markiere Kapseln als Beta, weil diese noch intabil in der Physik sind
@@ -249,7 +260,18 @@ Erste Shape-Swipa Version mit folgenden Features
 
 ## 🇬🇧 English
 
-### 0.6.0 (release) - 08/26/04
+### 0.6.1 (release) - 08/08/26
+- Fixed an issue where the next number was set to a value below the minimum; this affects numbers that have already been displayed
+- New object and next number are now handled as events for greater and improved dynamism
+- Undo button logic is now handled as an event
+- “Quit Game” button hidden in Settings when the game is running in a browser
+- MSAA and SSAA disabled
+- Caching object materials (colors)
+- Background changed to solid color (major performance boost)
+- All shadows on numbers ignored for better readability
+- Beta notice on capsules removed; now running
+
+### 0.6.0 (release) - 08/26/26
 - Added Scene Manager for faster switching between views and faster load times
 - Mark capsules as beta because their physics are still unstable
 - Spheres and capsules now have more edges
