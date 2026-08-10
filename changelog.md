@@ -2,6 +2,11 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.6.2 (release) - 10.08.26
+- Spieldaten beim beenden komplett zurücksetzen; Spielstände sind nicht betroffen
+- Pyramiden Form hinzugefügt
+- Verfügbare Objekte aufleuten lassen wenn mehr als 1 Objekt vorhadnen behoben
+
 ### 0.6.1 (release) - 08.08.26
 - Nächste Zahl unter minimum Zahl behoben; bereits angezeigte nächste Zahlen werden dadurch beeinflusst
 - Neues Objekt und nächste Zahl nun als Event ausgelagert für mehr und bessere Dynamik
@@ -259,6 +264,11 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.6.2 (release) - 08/10/26
+- Completely reset game data upon exit; save files are not affected
+- Added pyramid shape
+- Fixed an issue where available objects would highlight when more than one object was present
 
 ### 0.6.1 (release) - 08/08/26
 - Fixed an issue where the next number was set to a value below the minimum; this affects numbers that have already been displayed
