@@ -2,6 +2,9 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.6.3 (release) - 11.08.26
+- Schriftarten Update
+
 ### 0.6.2 (release) - 10.08.26
 - Spieldaten beim beenden komplett zurücksetzen; Spielstände sind nicht betroffen
 - Pyramiden Form hinzugefügt
@@ -264,6 +267,9 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.6.3 (release) - 08/11/26
+- Fonts update
 
 ### 0.6.2 (release) - 08/10/26
 - Completely reset game data upon exit; save files are not affected
