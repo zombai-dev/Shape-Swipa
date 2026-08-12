@@ -2,6 +2,11 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.6.4 (release) - 12.08.26
+- Repariere Impuls zu anderen Objekten
+- Minimaler Impuls etwas erhöht, damit beim Springen auch was sichtbar ist
+- Tutorial Fehler behoben wo der Würfel mal die Zahl 2 bekommt
+
 ### 0.6.3 (release) - 11.08.26
 - Schriftarten Update
 
@@ -267,6 +272,11 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.6.4 (release) - 08/12/26
+- Fixed the impulse effect on other objects
+- Slightly increased the minimum impulse so that something is visible when jumping
+- Fixed a tutorial bug where the cube would sometimes display the number 2
 
 ### 0.6.3 (release) - 08/11/26
 - Fonts update
