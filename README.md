@@ -13,16 +13,21 @@ Die Umgebung ist statisch, Wände sind halb so hoch wie die Objekte, mit unsicht
 
 #### Würfel:
 - **0,5m³** groß
-- **1 KG** Gewicht
+- **1 kg** Gewicht
 
 #### Kugel:
 - **0,25m** Radius
-- **1 KG** Gewicht
+- **1 kg** Gewicht
 
 #### Kapsel:
 - **0,2m** Radius
-- **0,8m** Höhe
-- **1 KG** Gewicht
+- **0,8m** höhe
+- **1 kg** Gewicht
+
+#### Pyramide:
+- **0,6m** höhe
+- **0,6m²** Fläche
+- **1 kg** Gewicht
 
 ---
 
@@ -102,17 +107,22 @@ The environment is static; walls are half as tall as the objects, with invisible
 ### There are 3 different objects:
 
 #### Cube:
-- **0.5 m³** in volume
-- **1 kg** in weight
+- **0.5 m³** volume
+- **1 kg** weight
 
 #### Sphere:
-- **0.25 m** in radius
-- **1 kg** in weight
+- **0.25 m** radius
+- **1 kg** weight
 
 #### Capsule:
-- **0.2 m** in radius
-- **0.8 m** in height
-- **1 kg** in weight
+- **0.2 m** radius
+- **0.8 m** height
+- **1 kg** weight
+
+#### Pyramid:
+- **0.6 m** height
+- **0.6 m²** surface area
+- **1 kg** weight
 
 ---
 

@@ -2,6 +2,18 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.7.0 (release) - 14.08.26
+- Bildschirmausrichtung orientiert sich jetzt am Endgerät
+- UI Elemente für unterschiedliche Darstellungen angepasst (weitere Anpassungen folgen)
+- Windows Export auf Itch.io bereit gestellt
+- Linux Export auf Itch.io bereit gestellt
+- Licht und Schatten für Desktop optimiert
+- Highscore Anzeige im Spiel korrigiert, wenn anderes Spiel geladen wird
+- Swipe und Kamera Bereich neu definiert
+- Leuchtener Punkt zeigt Gefahr an der Grenze
+- Beleuchtung für den Browser etwas optimiert
+- Changelog URL nach Sprachwahl angepasst
+
 ### 0.6.4 (release) - 12.08.26
 - Repariere Impuls zu anderen Objekten
 - Minimaler Impuls etwas erhöht, damit beim Springen auch was sichtbar ist
@@ -272,6 +284,18 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.7.0 (release) - 08/26/14
+- Screen orientation now adapts to the device
+- UI elements adjusted for different display modes (further adjustments to follow)
+- Windows export made available on Itch.io
+- Linux export made available on Itch.io
+- Lighting and shadows optimized for desktop
+- Fixed high score display in-game when another game is loaded
+- Swipe and camera areas redefined
+- A glowing dot indicates danger at the edge
+- Lighting slightly optimized for the browser
+- Updated the changelog URL based on the language selection
 
 ### 0.6.4 (release) - 08/12/26
 - Fixed the impulse effect on other objects
