@@ -2,6 +2,13 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.7.1 (release) - 29.08.26
+- Schriftart global angepasst (danke an nerdfonts.com); Schrift nun besser lesbar und Icons werden überall korrekt angezeigt
+- Spielstatistik eingeführt
+- Kombos sind nun unbegrenzt stapelbar, die Punktzahl ist jedoch auf das 10-Fache begrenzt
+- Menü für Breitbild weiter angepasst
+- Weitere Code Optimierungen
+
 ### 0.7.0 (release) - 14.08.26
 - Bildschirmausrichtung orientiert sich jetzt am Endgerät
 - UI Elemente für unterschiedliche Darstellungen angepasst (weitere Anpassungen folgen)
@@ -285,7 +292,14 @@ Erste Shape-Swipa Version mit folgenden Features
 
 ## 🇬🇧 English
 
-### 0.7.0 (release) - 08/26/14
+### 0.7.1 (release) - 08/29/26
+- Global font adjustment (thanks to nerdfonts.com); text is now more readable and icons are displayed correctly everywhere
+- Game statistics added
+- Combos can now be stacked indefinitely, but the score is capped at 10 times the base value
+- Widescreen menu further adjusted
+- Additional code optimizations
+
+### 0.7.0 (release) - 08/14/26
 - Screen orientation now adapts to the device
 - UI elements adjusted for different display modes (further adjustments to follow)
 - Windows export made available on Itch.io
