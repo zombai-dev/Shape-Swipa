@@ -2,6 +2,10 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.7.2 (release) - 30.08.26
+- Splashscreen durch Intro Animation ersetzt
+- Google Play und Itch.io Urls in Einstellungen als Link platzliert
+
 ### 0.7.1 (release) - 29.08.26
 - Schriftart global angepasst (danke an nerdfonts.com); Schrift nun besser lesbar und Icons werden überall korrekt angezeigt
 - Spielstatistik eingeführt
@@ -291,6 +295,10 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.7.2 (release) - 08/30/26
+- Splash screen replaced with intro animation
+- Google Play and Itch.io URLs added as links in Settings
 
 ### 0.7.1 (release) - 08/29/26
 - Global font adjustment (thanks to nerdfonts.com); text is now more readable and icons are displayed correctly everywhere
