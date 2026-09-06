@@ -2,6 +2,12 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.7.3 (release) - 06.09.26
+- Intro mit doppelten Godot Logo korrigiert
+- Performance bei Swipe Bewegung und Vorschau verbessert
+- Sichere Touch / Maus Bereiche definiert; oben und unten kleiner save space womit übliche UI Interaktionen am Smartphone nicht den Spielfluss stören
+- Allgemeine Performance Steigerung
+
 ### 0.7.2 (release) - 30.08.26
 - Splashscreen durch Intro Animation ersetzt
 - Google Play und Itch.io Urls in Einstellungen als Link platzliert
@@ -295,6 +301,12 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.7.3 (release) - 09/26/06
+- Fixed the intro with the duplicate Godot logo
+- Improved performance during swipe gestures and previews
+- Defined safe touch/mouse areas; added a small safe space at the top and bottom so that common UI interactions on smartphones do not disrupt gameplay
+- General performance improvements
 
 ### 0.7.2 (release) - 08/30/26
 - Splash screen replaced with intro animation
