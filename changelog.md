@@ -2,6 +2,15 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.8.0 (release) - 11.09.26
+- Neuer Modus "Roulette" hinzugefügt
+- Pyramiden von GDScript zu Blender Model
+- Rechtschreibfehler im Tutorial auf Englisch behoben (...a*n* shape...)
+- Schreibweise von Moor-IT in MoorIT korrigiert für exaktes CI
+- Combos in Statistik aufgenommen (lief, wurde nur noch nicht angezeigt)
+- Zahlen auf Kugeln und Kapseln wieder mehr eingebettet
+- Die Proportionen der Kugeln, Kapseln und Pyramiden wurden leicht nach oben angepasst, damit alle Objekte ungefähr das selbe Volumen aufweisen
+
 ### 0.7.3 (release) - 06.09.26
 - Intro mit doppelten Godot Logo korrigiert
 - Performance bei Swipe Bewegung und Vorschau verbessert
@@ -302,7 +311,16 @@ Erste Shape-Swipa Version mit folgenden Features
 
 ## 🇬🇧 English
 
-### 0.7.3 (release) - 09/26/06
+### 0.8.0 (release) - 09/11/26
+- Added new “Roulette” mode
+- Converted pyramids from GDScript to Blender models
+- Fixed spelling errors in the English tutorial (...a*n* shape...)
+- Corrected the spelling of “Moor-IT” to “MoorIT” for exact brand consistency
+- Added combos to the statistics (they were working but not yet displayed)
+- Numbers on balls and capsules are now more deeply embedded
+- The proportions of the balls, capsules, and pyramids have been slightly adjusted upward so that all objects have approximately the same volume
+
+### 0.7.3 (release) - 09/06/26
 - Fixed the intro with the duplicate Godot logo
 - Improved performance during swipe gestures and previews
 - Defined safe touch/mouse areas; added a small safe space at the top and bottom so that common UI interactions on smartphones do not disrupt gameplay
