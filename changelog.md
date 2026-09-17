@@ -2,6 +2,11 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.8.1 (release) - 17.09.26
+- Hauptmenü komplett überarbeitet (Screenshot vom Spielstand bei Spielwahl und vereinfachte Menüsteuerung)
+- Einstellungen UI aktualisiert (Musik und Sound jetzt stufenlos einstellbar)
+- KI Hintergrundmusik durch Musik von RocketStormGames (https://roketstormgames.itch.io) ersetzt
+
 ### 0.8.0 (release) - 11.09.26
 - Neuer Modus "Roulette" hinzugefügt
 - Pyramiden von GDScript zu Blender Model
@@ -310,6 +315,11 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.8.1 (release) - 09/17/26
+- Main menu completely redesigned (screenshot of the game selection screen and simplified menu navigation)
+- Settings UI updated (music and sound are now continuously adjustable)
+- AI background music replaced with music from RocketStormGames (https://roketstormgames.itch.io)
 
 ### 0.8.0 (release) - 09/11/26
 - Added new “Roulette” mode
