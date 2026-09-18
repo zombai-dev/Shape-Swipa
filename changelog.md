@@ -2,6 +2,9 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.8.3 (release) - 18.09.26
+- korrigiere Buttons in den Spielmodi die teilweise nicht geklickt werden können
+
 ### 0.8.2 (release) - 18.09.26
 - Icons im Hauptmenü neu angeordnet
 - Fehlende Übersetzungen hinzugefügt
@@ -320,6 +323,9 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.8.3 (release) - 09/18/26
+- Fixed buttons in the game modes that sometimes couldn't be clicked
 
 ### 0.8.2 (release) - 09/18/26
 - Rearranged icons in the main menu
