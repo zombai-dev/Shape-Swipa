@@ -2,6 +2,11 @@
 
 ## 🇩🇪 Deutsch
 
+### 0.8.2 (release) - 18.09.26
+- Icons im Hauptmenü neu angeordnet
+- Fehlende Übersetzungen hinzugefügt
+- Einstellungen, Highscore und Statistik Fenstergröße angepasst
+
 ### 0.8.1 (release) - 17.09.26
 - Hauptmenü komplett überarbeitet (Screenshot vom Spielstand bei Spielwahl und vereinfachte Menüsteuerung)
 - Einstellungen UI aktualisiert (Musik und Sound jetzt stufenlos einstellbar)
@@ -315,6 +320,11 @@ Erste Shape-Swipa Version mit folgenden Features
 ---
 
 ## 🇬🇧 English
+
+### 0.8.2 (release) - 09/18/26
+- Rearranged icons in the main menu
+- Added missing translations
+- Adjusted the window size for the Settings, High Score, and Statistics windows
 
 ### 0.8.1 (release) - 09/17/26
 - Main menu completely redesigned (screenshot of the game selection screen and simplified menu navigation)
